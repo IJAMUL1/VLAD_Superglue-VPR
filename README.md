@@ -26,6 +26,5 @@ Incorporate more advanced feature extraction and matching techniques to enhance 
 Explore alternative encoding methods and clustering algorithms to further improve VLAD representation and retrieval accuracy.
 Optimize the system for deployment on resource-constrained devices, enabling practical applications in robotics and other domains.
 
-## Contributors
-Your Name
-Collaborator Name
+## References
+https://ieeexplore.ieee.org/document/6619051
